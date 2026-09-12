@@ -2,7 +2,7 @@
 
 An interactive, production-grade AI Digital Twin conversational companion built with **Next.js**, **FastAPI**, **AWS Bedrock**, and **OpenRouter**, deployed entirely as serverless Infrastructure-as-Code using **Terraform** and **GitHub Actions CI/CD**.
 
-![AI Digital Twin System Architecture](./ai-digital-twin-system-share-card.png)
+![AI Digital Twin System Architecture](./ai-digital-twin-system.png)
 
 ---
 
