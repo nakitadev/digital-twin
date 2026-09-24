@@ -105,8 +105,7 @@ twin/
 │   ├── components/
 │   │   └── twin.tsx              # Main chat interface component
 │   └── public/
-│       ├── avatar.png            # Digital Twin avatar
-│       └── architecture-diagram  # Architecture visualizer
+│       └── avatar.png            # Digital Twin avatar
 ├── scripts/
 │   ├── deploy.sh                 # Local & CI deployment script
 │   └── destroy.sh                # Environment teardown script
